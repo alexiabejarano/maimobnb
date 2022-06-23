@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Ivy;
+    src: url("../../fonts/IvyMode_Regular.ttf");
+}
+
+@font-face {
+    font-family: Made;
+    src: url("../../fonts/MADE_Light.ttf");
+}
+
+.card{
+    padding: 1em;
+    font-family: Made;
+    font-size: 0.75rem;
+    font-weight: 400;
+}

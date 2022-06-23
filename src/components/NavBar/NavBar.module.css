@@ -1,0 +1,15 @@
+
+  .nav {
+    background-color: #fff;
+    height: 4em;
+    position: sticky;
+    top: 0;
+
+    border-bottom: 0.1rem solid;
+    border-image: linear-gradient(-90deg, darkblue, #fff, darkblue) 1;
+}
+
+.navbar-item img{
+    height: 3em;
+    margin: 0.5em 0 0 1em;
+}

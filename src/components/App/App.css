@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Ivy;
+    src: url("../../fonts/IvyMode_Regular.ttf");
+}
+
+@font-face {
+    font-family: Made;
+    src: url("../../fonts/MADE_Light.ttf");
+}
+
+.media,
+.media-content,
+.title is-4,
+.subtitle is-6 {
+    font-family: Made;
+    font-size: 0.75rem;
+    font-weight: 400;
+}
+
+.container h1, .container h2{
+    font-family: Made;
+    font-weight: 400;
+    color: darkblue;
+}
